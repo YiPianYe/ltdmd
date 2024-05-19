@@ -61,7 +61,7 @@ scene.add(group);
 const loader = new THREE.FontLoader();
 const textMesh = new THREE.Mesh();
 const createTypo = font => {
-  const word = "abc.de";
+  const word = "ltd.md";
   const typoProperties = {
     font: font,
     size: cubeSize,
